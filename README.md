@@ -8,6 +8,8 @@ A Pomodoro Timer is a time management technique designed to improve productivity
 completing a set of Pomodoros, a longer break is taken. The timer helps users maintain a balance between focused work and regular breaks, 
 promoting better concentration and avoiding burnout.
 
+The Timer was created while taking a [Udemy course](https://www.udemy.com/course/100-days-of-code/)
+
 ## Explanation of the Code
 My Python code is an implementation of a graphical Pomodoro Timer using the Tkinter library. Let's go through the main components of the code.
 
